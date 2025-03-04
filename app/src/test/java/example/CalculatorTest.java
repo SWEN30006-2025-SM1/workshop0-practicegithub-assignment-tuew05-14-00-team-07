@@ -5,6 +5,7 @@ import org.junit.Test;
 
 public class CalculatorTest {
     Calculator calculator;
+    Calculator calculator1;
     @Before
     public void setup() {
         calculator = new Calculator();
